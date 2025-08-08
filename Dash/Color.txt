@@ -1,0 +1,13 @@
+Background:  dfdfe9  
+Back Chart: eff1f6
+chart:f8fafc
+
+
+
+green1: 287e8f
+green2: 15cab6
+yellow: f6b53d
+orange: ef8a5a
+red: e85e76
+blue: 0f488c
+purple: 696cb5 
